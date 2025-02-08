@@ -49,3 +49,5 @@ npm run db:push
 ```bash
 npm run db:studio
 ```
+
+- [Live Link](https://ai-content-generator-rosy.vercel.app/)
